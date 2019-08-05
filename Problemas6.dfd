@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+57
+'Por favor ingrese la longitud de los lados del poligono'
+5
+1
+1
+s
+4
+1
+48
+'Por favor ingrese el número lados del poligono'
+5
+1
+1
+n
+6
+3
+6
+pretan
+8
+3.1456/n
+2
+s2
+3
+s^2
+1
+a
+22
+(n*s2)/(4*tan(pretan))
+4
+1
+36
+'El área del poligono regular es ',a
+1
